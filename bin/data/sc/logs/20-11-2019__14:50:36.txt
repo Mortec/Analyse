@@ -1,0 +1,1286 @@
+14:50:36
+14:50:36
+14:50:36
+----------------------------------------
+WhatchDog complete, SkipJack is running.
+----------------------------------------
+
+
+
+/--------Starting SkipJacks.--------/
+
+
+
+---------------------------------------
+ Starting Server, loading up synths... 
+---------------------------------------
+
+
+
+14:50:46
+/scSynth is booting
+
+14:50:56
+/scSynth is booting
+
+14:51:06
+/scSynth is booting
+
+14:51:16
+/scSynth is booting
+
+14:51:26
+/scSynth is booting
+
+14:51:36
+/scSynth is booting
+
+14:51:46
+/scSynth is late
+
+14:51:56
+/scSynth is late
+
+14:52:06
+/scSynth is late
+
+14:52:11
+----------------------------------------------
+/***/ /scSynth has frozen, restarting / /***/
+----------------------------------------------
+
+
+
+14:52:20
+/scSynth is booting
+
+14:52:30
+/scSynth is booting
+
+14:52:40
+/scSynth is booting
+
+14:52:50
+/scSynth is booting
+
+14:53:00
+/scSynth is booting
+
+14:53:10
+/scSynth is booting
+
+14:53:20
+/scSynth is late
+
+14:53:30
+/scSynth is late
+
+14:53:40
+/scSynth is late
+
+14:53:45
+----------------------------------------------
+/***/ /scSynth has frozen, restarting / /***/
+----------------------------------------------
+
+
+
+14:53:54
+/scSynth is booting
+
+14:54:04
+/scSynth is booting
+
+14:54:14
+/scSynth is booting
+
+14:54:24
+/scSynth is booting
+
+14:54:34
+/scSynth is booting
+
+14:54:44
+/scSynth is booting
+
+14:54:54
+/scSynth is late
+
+14:55:04
+/scSynth is late
+
+14:55:14
+/scSynth is late
+
+14:55:19
+----------------------------------------------
+/***/ /scSynth has frozen, restarting / /***/
+----------------------------------------------
+
+
+
+14:55:28
+/scSynth is booting
+
+14:55:38
+/scSynth is booting
+
+14:55:48
+/scSynth is booting
+
+14:55:58
+/scSynth is booting
+
+14:56:08
+/scSynth is booting
+
+14:56:18
+/scSynth is booting
+
+14:56:28
+/scSynth is late
+
+14:56:38
+/scSynth is late
+
+14:56:48
+/scSynth is late
+
+14:56:53
+----------------------------------------------
+/***/ /scSynth has frozen, restarting / /***/
+----------------------------------------------
+
+
+
+14:57:02
+/scSynth is booting
+
+14:57:12
+/scSynth is booting
+
+14:57:22
+/scSynth is booting
+
+14:57:32
+/scSynth is booting
+
+14:57:42
+/scSynth is booting
+
+14:57:52
+/scSynth is booting
+
+14:58:02
+/scSynth is late
+
+14:58:12
+/scSynth is late
+
+14:58:22
+/scSynth is late
+
+14:58:27
+----------------------------------------------
+/***/ /scSynth has frozen, restarting / /***/
+----------------------------------------------
+
+
+
+14:58:36
+/scSynth is booting
+
+14:58:46
+/scSynth is booting
+
+14:58:56
+/scSynth is booting
+
+14:59:06
+/scSynth is booting
+
+14:59:16
+/scSynth is booting
+
+14:59:26
+/scSynth is booting
+
+14:59:36
+/scSynth is late
+
+14:59:46
+/scSynth is late
+
+14:59:56
+/scSynth is late
+
+15:00:01
+----------------------------------------------
+/***/ /scSynth has frozen, restarting / /***/
+----------------------------------------------
+
+
+
+15:00:10
+/scSynth is booting
+
+15:00:20
+/scSynth is booting
+
+15:00:30
+/scSynth is booting
+
+15:00:40
+/scSynth is booting
+
+15:00:50
+/scSynth is booting
+
+15:01:00
+/scSynth is booting
+
+15:01:10
+/scSynth is late
+
+15:01:20
+/scSynth is late
+
+15:01:30
+/scSynth is late
+
+15:01:35
+----------------------------------------------
+/***/ /scSynth has frozen, restarting / /***/
+----------------------------------------------
+
+
+
+15:01:44
+/scSynth is booting
+
+15:01:54
+/scSynth is booting
+
+15:02:04
+/scSynth is booting
+
+15:02:14
+/scSynth is booting
+
+15:02:24
+/scSynth is booting
+
+15:02:34
+/scSynth is booting
+
+15:02:44
+/scSynth is late
+
+15:02:54
+/scSynth is late
+
+15:03:04
+/scSynth is late
+
+15:03:09
+----------------------------------------------
+/***/ /scSynth has frozen, restarting / /***/
+----------------------------------------------
+
+
+
+15:03:18
+/scSynth is booting
+
+15:03:28
+/scSynth is booting
+
+15:03:38
+/scSynth is booting
+
+15:03:48
+/scSynth is booting
+
+15:03:58
+/scSynth is booting
+
+15:04:08
+/scSynth is booting
+
+15:04:18
+/scSynth is late
+
+15:04:28
+/scSynth is late
+
+15:04:38
+/scSynth is late
+
+15:04:43
+----------------------------------------------
+/***/ /scSynth has frozen, restarting / /***/
+----------------------------------------------
+
+
+
+15:04:52
+/scSynth is booting
+
+15:05:02
+/scSynth is booting
+
+15:05:12
+/scSynth is booting
+
+15:05:22
+/scSynth is booting
+
+15:05:32
+/scSynth is booting
+
+15:05:42
+/scSynth is booting
+
+15:05:52
+/scSynth is late
+
+15:06:02
+/scSynth is late
+
+15:06:12
+/scSynth is late
+
+15:06:17
+----------------------------------------------
+/***/ /scSynth has frozen, restarting / /***/
+----------------------------------------------
+
+
+
+15:11:16
+/scSynth is beating
+
+15:16:16
+/scSynth is beating
+
+15:21:16
+/scSynth is beating
+
+15:26:16
+/scSynth is beating
+
+15:31:16
+/scSynth is beating
+
+15:36:16
+/scSynth is beating
+
+15:41:16
+/scSynth is beating
+
+15:46:16
+/scSynth is beating
+
+15:51:16
+/scSynth is beating
+
+15:56:16
+/scSynth is beating
+
+16:01:16
+/scSynth is beating
+
+16:06:16
+/scSynth is beating
+
+16:11:16
+/scSynth is beating
+
+16:16:16
+/scSynth is beating
+
+16:21:16
+/scSynth is beating
+
+16:26:16
+/scSynth is beating
+
+16:31:16
+/scSynth is beating
+
+16:36:16
+/scSynth is beating
+
+16:41:16
+/scSynth is beating
+
+16:46:16
+/scSynth is beating
+
+16:51:16
+/scSynth is beating
+
+16:56:16
+/scSynth is beating
+
+17:01:17
+/scSynth is beating
+
+17:06:17
+/scSynth is beating
+
+17:11:17
+/scSynth is beating
+
+17:16:17
+/scSynth is beating
+
+17:21:17
+/scSynth is beating
+
+17:26:17
+/scSynth is beating
+
+17:31:17
+/scSynth is beating
+
+17:36:17
+/scSynth is beating
+
+17:41:17
+/scSynth is beating
+
+17:46:17
+/scSynth is beating
+
+17:51:17
+/scSynth is beating
+
+17:56:17
+/scSynth is beating
+
+18:01:17
+/scSynth is beating
+
+18:06:17
+/scSynth is beating
+
+18:11:17
+/scSynth is beating
+
+18:16:17
+/scSynth is beating
+
+18:21:17
+/scSynth is beating
+
+18:26:17
+/scSynth is beating
+
+18:31:17
+/scSynth is beating
+
+18:36:17
+/scSynth is beating
+
+18:41:17
+/scSynth is beating
+
+18:46:17
+/scSynth is beating
+
+18:51:17
+/scSynth is beating
+
+18:56:17
+/scSynth is beating
+
+19:01:17
+/scSynth is beating
+
+19:06:17
+/scSynth is beating
+
+19:11:17
+/scSynth is beating
+
+19:16:17
+/scSynth is beating
+
+19:21:17
+/scSynth is beating
+
+19:26:17
+/scSynth is beating
+
+19:31:17
+/scSynth is beating
+
+19:36:17
+/scSynth is beating
+
+19:41:17
+/scSynth is beating
+
+19:46:17
+/scSynth is beating
+
+19:51:17
+/scSynth is beating
+
+19:56:17
+/scSynth is beating
+
+20:01:17
+/scSynth is beating
+
+20:06:17
+/scSynth is beating
+
+20:11:17
+/scSynth is beating
+
+20:16:17
+/scSynth is beating
+
+20:21:17
+/scSynth is beating
+
+20:26:17
+/scSynth is beating
+
+20:31:17
+/scSynth is beating
+
+20:36:17
+/scSynth is beating
+
+20:41:17
+/scSynth is beating
+
+20:46:17
+/scSynth is beating
+
+20:51:17
+/scSynth is beating
+
+20:56:17
+/scSynth is beating
+
+21:01:17
+/scSynth is beating
+
+21:06:17
+/scSynth is beating
+
+21:11:17
+/scSynth is beating
+
+21:16:17
+/scSynth is beating
+
+21:21:17
+/scSynth is beating
+
+21:26:17
+/scSynth is beating
+
+21:31:17
+/scSynth is beating
+
+21:36:17
+/scSynth is beating
+
+21:41:17
+/scSynth is beating
+
+21:46:17
+/scSynth is beating
+
+21:51:17
+/scSynth is beating
+
+21:56:17
+/scSynth is beating
+
+22:01:17
+/scSynth is beating
+
+22:06:17
+/scSynth is beating
+
+22:11:17
+/scSynth is beating
+
+22:16:17
+/scSynth is beating
+
+22:21:17
+/scSynth is beating
+
+22:26:17
+/scSynth is beating
+
+22:31:17
+/scSynth is beating
+
+22:36:17
+/scSynth is beating
+
+22:41:17
+/scSynth is beating
+
+22:46:17
+/scSynth is beating
+
+22:51:17
+/scSynth is beating
+
+22:56:17
+/scSynth is beating
+
+23:01:17
+/scSynth is beating
+
+23:06:17
+/scSynth is beating
+
+23:11:17
+/scSynth is beating
+
+23:16:17
+/scSynth is beating
+
+23:21:17
+/scSynth is beating
+
+23:26:17
+/scSynth is beating
+
+23:31:17
+/scSynth is beating
+
+23:36:17
+/scSynth is beating
+
+23:41:17
+/scSynth is beating
+
+23:46:17
+/scSynth is beating
+
+23:51:17
+/scSynth is beating
+
+23:56:17
+/scSynth is beating
+
+00:01:17
+/scSynth is beating
+
+00:06:17
+/scSynth is beating
+
+00:11:17
+/scSynth is beating
+
+00:16:17
+/scSynth is beating
+
+00:21:17
+/scSynth is beating
+
+00:26:17
+/scSynth is beating
+
+00:31:17
+/scSynth is beating
+
+00:36:17
+/scSynth is beating
+
+00:41:17
+/scSynth is beating
+
+00:46:18
+/scSynth is beating
+
+00:51:18
+/scSynth is beating
+
+00:56:18
+/scSynth is beating
+
+01:01:18
+/scSynth is beating
+
+01:06:18
+/scSynth is beating
+
+01:11:18
+/scSynth is beating
+
+01:16:18
+/scSynth is beating
+
+01:21:18
+/scSynth is beating
+
+01:26:18
+/scSynth is beating
+
+01:31:18
+/scSynth is beating
+
+01:36:18
+/scSynth is beating
+
+01:41:18
+/scSynth is beating
+
+01:46:18
+/scSynth is beating
+
+01:51:18
+/scSynth is beating
+
+01:56:18
+/scSynth is beating
+
+02:01:18
+/scSynth is beating
+
+02:06:18
+/scSynth is beating
+
+02:11:18
+/scSynth is beating
+
+02:16:18
+/scSynth is beating
+
+02:21:18
+/scSynth is beating
+
+02:26:18
+/scSynth is beating
+
+02:31:18
+/scSynth is beating
+
+02:36:18
+/scSynth is beating
+
+02:41:18
+/scSynth is beating
+
+02:46:18
+/scSynth is beating
+
+02:51:18
+/scSynth is beating
+
+02:56:18
+/scSynth is beating
+
+03:01:18
+/scSynth is beating
+
+03:06:18
+/scSynth is beating
+
+03:11:18
+/scSynth is beating
+
+03:16:18
+/scSynth is beating
+
+03:21:18
+/scSynth is beating
+
+03:26:18
+/scSynth is beating
+
+03:31:18
+/scSynth is beating
+
+03:36:18
+/scSynth is beating
+
+03:41:18
+/scSynth is beating
+
+03:46:18
+/scSynth is beating
+
+03:51:18
+/scSynth is beating
+
+03:56:18
+/scSynth is beating
+
+04:01:18
+/scSynth is beating
+
+04:06:18
+/scSynth is beating
+
+04:11:18
+/scSynth is beating
+
+04:16:18
+/scSynth is beating
+
+04:21:18
+/scSynth is beating
+
+04:26:18
+/scSynth is beating
+
+04:31:18
+/scSynth is beating
+
+04:36:18
+/scSynth is beating
+
+04:41:18
+/scSynth is beating
+
+04:46:18
+/scSynth is beating
+
+04:51:18
+/scSynth is beating
+
+04:56:18
+/scSynth is beating
+
+05:01:18
+/scSynth is beating
+
+05:06:18
+/scSynth is beating
+
+05:11:18
+/scSynth is beating
+
+05:16:18
+/scSynth is beating
+
+05:21:18
+/scSynth is beating
+
+05:26:18
+/scSynth is beating
+
+05:31:18
+/scSynth is beating
+
+05:36:18
+/scSynth is beating
+
+05:41:18
+/scSynth is beating
+
+05:46:18
+/scSynth is beating
+
+05:51:18
+/scSynth is beating
+
+05:56:18
+/scSynth is beating
+
+06:01:18
+/scSynth is beating
+
+06:06:18
+/scSynth is beating
+
+06:11:18
+/scSynth is beating
+
+06:16:18
+/scSynth is beating
+
+06:21:18
+/scSynth is beating
+
+06:26:18
+/scSynth is beating
+
+06:31:18
+/scSynth is beating
+
+06:36:18
+/scSynth is beating
+
+06:41:18
+/scSynth is beating
+
+06:46:18
+/scSynth is beating
+
+06:51:18
+/scSynth is beating
+
+06:56:18
+/scSynth is beating
+
+07:01:18
+/scSynth is beating
+
+07:06:18
+/scSynth is beating
+
+07:11:18
+/scSynth is beating
+
+07:16:18
+/scSynth is beating
+
+07:21:18
+/scSynth is beating
+
+07:26:18
+/scSynth is beating
+
+07:31:18
+/scSynth is beating
+
+07:36:18
+/scSynth is beating
+
+07:41:18
+/scSynth is beating
+
+07:46:18
+/scSynth is beating
+
+07:51:18
+/scSynth is beating
+
+07:56:18
+/scSynth is beating
+
+08:01:18
+/scSynth is beating
+
+08:06:18
+/scSynth is beating
+
+08:11:18
+/scSynth is beating
+
+08:16:18
+/scSynth is beating
+
+08:21:18
+/scSynth is beating
+
+08:26:18
+/scSynth is beating
+
+08:31:18
+/scSynth is beating
+
+08:36:19
+/scSynth is beating
+
+08:41:19
+/scSynth is beating
+
+08:46:19
+/scSynth is beating
+
+08:51:19
+/scSynth is beating
+
+08:56:19
+/scSynth is beating
+
+09:01:19
+/scSynth is beating
+
+09:06:19
+/scSynth is beating
+
+09:11:19
+/scSynth is beating
+
+09:16:19
+/scSynth is beating
+
+09:21:19
+/scSynth is beating
+
+09:26:19
+/scSynth is beating
+
+09:31:19
+/scSynth is beating
+
+09:36:19
+/scSynth is beating
+
+09:41:19
+/scSynth is beating
+
+09:46:19
+/scSynth is beating
+
+09:51:19
+/scSynth is beating
+
+09:56:19
+/scSynth is beating
+
+10:01:19
+/scSynth is beating
+
+10:06:19
+/scSynth is beating
+
+10:11:19
+/scSynth is beating
+
+10:16:19
+/scSynth is beating
+
+10:21:19
+/scSynth is beating
+
+10:26:19
+/scSynth is beating
+
+10:31:19
+/scSynth is beating
+
+10:36:19
+/scSynth is beating
+
+10:41:19
+/scSynth is beating
+
+10:46:19
+/scSynth is beating
+
+10:51:19
+/scSynth is beating
+
+10:56:19
+/scSynth is beating
+
+11:01:19
+/scSynth is beating
+
+11:06:19
+/scSynth is beating
+
+11:11:19
+/scSynth is beating
+
+11:16:19
+/scSynth is beating
+
+11:21:19
+/scSynth is beating
+
+11:26:19
+/scSynth is beating
+
+11:31:19
+/scSynth is beating
+
+11:36:19
+/scSynth is beating
+
+11:41:19
+/scSynth is beating
+
+11:46:19
+/scSynth is beating
+
+11:51:19
+/scSynth is beating
+
+11:56:19
+/scSynth is beating
+
+12:01:19
+/scSynth is beating
+
+12:06:19
+/scSynth is beating
+
+12:11:19
+/scSynth is beating
+
+12:16:19
+/scSynth is beating
+
+12:21:19
+/scSynth is beating
+
+12:26:19
+/scSynth is beating
+
+12:31:19
+/scSynth is beating
+
+12:36:19
+/scSynth is beating
+
+12:41:19
+/scSynth is beating
+
+12:46:19
+/scSynth is beating
+
+12:51:19
+/scSynth is beating
+
+12:56:19
+/scSynth is beating
+
+13:01:19
+/scSynth is beating
+
+13:06:19
+/scSynth is beating
+
+13:11:19
+/scSynth is beating
+
+13:16:19
+/scSynth is beating
+
+13:21:19
+/scSynth is beating
+
+13:26:19
+/scSynth is beating
+
+13:31:19
+/scSynth is beating
+
+13:36:19
+/scSynth is beating
+
+13:41:19
+/scSynth is beating
+
+13:46:19
+/scSynth is beating
+
+13:51:19
+/scSynth is beating
+
+13:56:19
+/scSynth is beating
+
+14:01:19
+/scSynth is beating
+
+14:06:19
+/scSynth is beating
+
+14:11:19
+/scSynth is beating
+
+14:16:19
+/scSynth is beating
+
+14:21:19
+/scSynth is beating
+
+14:26:19
+/scSynth is beating
+
+14:31:19
+/scSynth is beating
+
+14:36:19
+/scSynth is beating
+
+14:41:19
+/scSynth is beating
+
+14:46:19
+/scSynth is beating
+
+14:51:19
+/scSynth is beating
+
+14:56:19
+/scSynth is beating
+
+15:01:19
+/scSynth is beating
+
+15:06:19
+/scSynth is beating
+
+15:11:19
+/scSynth is beating
+
+15:16:19
+/scSynth is beating
+
+15:21:19
+/scSynth is beating
+
+15:26:19
+/scSynth is beating
+
+15:31:19
+/scSynth is beating
+
+15:36:19
+/scSynth is beating
+
+15:41:19
+/scSynth is beating
+
+15:46:19
+/scSynth is beating
+
+15:51:19
+/scSynth is beating
+
+15:56:19
+/scSynth is beating
+
+16:01:19
+/scSynth is beating
+
+16:06:19
+/scSynth is beating
+
+16:11:19
+/scSynth is beating
+
+16:16:19
+/scSynth is beating
+
+16:21:20
+/scSynth is beating
+
+16:26:20
+/scSynth is beating
+
+16:31:20
+/scSynth is beating
+
+16:36:20
+/scSynth is beating
+
+16:41:20
+/scSynth is beating
+
+16:46:20
+/scSynth is beating
+
+16:51:20
+/scSynth is beating
+

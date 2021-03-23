@@ -1,0 +1,106 @@
+<STREAMS>
+	<Stream id="0">
+		<Name>ALJAZEERA</Name>
+		<Url>https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8</Url>
+	</Stream>
+	<Stream id="1">
+		<Name>NHK_WORLD</Name>
+		<Url>https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8</Url>
+	</Stream>
+	<Stream id="2">
+		<Name>EURONEWS_RS</Name>
+		<Url>http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8</Url>
+	</Stream>
+	<Stream id="3">
+		<Name>CGTN</Name>
+		<Url>https://live.cgtn.com/500/prog_index.m3u8</Url>
+	</Stream>
+	<Stream id="4">
+		<Name>BLOOMBERG</Name>
+		<Url>https://bblive-liveprodeuwest.hs.llnwd.net/btv/desktop/eu_live.m3u8</Url>
+	</Stream>
+	<Stream id="5">
+		<Name>RT_FRANCE</Name>
+		<Url>https://rt-france.secure.footprint.net/1107-inadv-qidx-3k_v3.m3u8</Url>
+	</Stream>
+	<Stream id="6">
+		<Name>CGTN_F</Name>
+		<Url>https://news.cgtn.com/resource/live/french/cgtn-f.m3u8</Url>
+	</Stream>
+	<Stream id="7">
+		<Name>TV5_MONDE</Name>
+		<Url>http://v3fbs247hls-i.akamaihd.net/hls/live/219079/v3fbs247hls/v3fbs247hls_1_5.m3u8</Url>
+	</Stream>
+	<Stream id="8">
+		<Name>ABC_NEWS</Name>
+		<Url>http://abclive.abcnews.com/i/abc_live4@136330/index_800_av-b.m3u8</Url>
+	</Stream>
+	<Stream id="9">
+		<Name>TIMES_NOW</Name>
+		<Url>https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_432_av-p.m3u8</Url>
+	</Stream>
+	<Stream id="10">
+		<Name>CNN_TURK</Name>
+		<Url>http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8</Url>
+	</Stream>
+	<Stream id="11">
+		<Name>NEWSMAX</Name>
+		<Url>https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_404.m3u8</Url>
+	</Stream>
+	<Stream id="12">
+		<Name>RT_NEWS</Name>
+		<Url>https://rt-news.secure.footprint.net/1103-inadv-qidx-3k_v3.m3u8</Url>
+	</Stream>
+	<Stream id="13">
+		<Name>BX1</Name>
+		<Url>https://59959724487e3.streamlock.net/stream/live/master.m3u8</Url>
+	</Stream>
+	<Stream id="14">
+		<Name>AFRIQUE_MEDIA_TV</Name>
+		<Url>https://www.dailymotion.com/video/x5dk3kj_hls-480</Url>
+	</Stream>
+	<Stream id="15">
+		<Name>BFMTV</Name>
+		<Url>https://www.dailymotion.com/video/xgz4t1_hls-480-0</Url>
+	</Stream>
+	<Stream id="16">
+		<Name>EURONEWS</Name>
+		<Url>https://www.dailymotion.com/video/x2j4lj9_hls-480</Url>
+	</Stream>
+	<Stream id="17">
+		<Name>CNEWS</Name>
+		<Url>https://www.dailymotion.com/video/x3b68jn_hls-480-0</Url>
+	</Stream>
+	<Stream id="18">
+		<Name>LCP</Name>
+		<Url>https://www.dailymotion.com/video/xji3qy_hls-480</Url>
+	</Stream>
+	<Stream id="19">
+		<Name>FRANCE_INFO</Name>
+		<Url>https://www.dailymotion.com/video/x4rdeu6_hls-480</Url>
+	</Stream>
+	<Stream id="20">
+		<Name>FASHION_SPAIN</Name>
+		<Url>https://www.dailymotion.com/video/x2t9nsf_hls-480</Url>
+	</Stream>
+	<Stream id="21">
+		<Name>TR3</Name>
+		<Url>https://www.dailymotion.com/video/x5efqcl_hls-480-0</Url>
+	</Stream>
+	<Stream id="22">
+		<Name>AFRICA_NEWS</Name>
+		<Url>https://www.dailymotion.com/video/x6i37o5_hls-480</Url>
+	</Stream>
+	<Stream id="23">
+		<Name>PUBLIC_SENAT</Name>
+		<Url>https://www.dailymotion.com/video/xkxbzc_hls-480</Url>
+	</Stream>
+	<Stream id="24">
+		<Name>RMC</Name>
+		<Url>https://www.dailymotion.com/video/x13p3qi_hls-480-0</Url>
+	</Stream>
+	<Stream id="25">
+		<Name>DIRECT_TV</Name>
+		<Url>https://www.dailymotion.com/video/x6gk2x7_hls-480</Url>
+	</Stream>
+</STREAMS>

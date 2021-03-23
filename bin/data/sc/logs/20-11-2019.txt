@@ -1,0 +1,598 @@
+init_OSC
+empty
+compiling class library...
+initPassOne started
+	NumPrimitives = 710
+initPassOne done
+	compiling dir: '/Applications/SuperCollider/SuperCollider.app/Contents/Resources/SCClassLibrary'
+	compiling dir: '/Library/Application Support/SuperCollider/Extensions'
+	compiling dir: '/Users/nebbia/Library/Application Support/SuperCollider/Extensions'
+	pass 1 done
+ERROR: Class extension for nonexistent class 'Document'
+     In file:'/deprecated/3.7/deprecated-3.7.sc'
+	numentries = 1187137 / 18080550 = 0.066
+	5675 method selectors, 3186 classes
+	method table size 18571872 bytes, big table size 144644400
+	Number of Symbols 14373
+	Byte Code Size 451319
+	compiled 439 files in 6.95 seconds
+compile done
+Class tree inited in 0.06 seconds
+Cleaning up temp synthdefs...
+
+
+*** Welcome to SuperCollider 3.7.0. *** For help type cmd-d.
+ERROR: syntax error, unexpected NAME, expecting '}'
+  in file 'selected text'
+  line 181 char 3:
+
+  		s.meter;
+    ^
+  		s.plotTree;
+-----------------------------------
+ERROR: Command line parse failed
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+/quit sent
+
+No matching processes belonging to you were found
+ERROR: syntax error, unexpected NAME, expecting '}'
+  in file 'selected text'
+  line 181 char 3:
+
+  		s.meter;
+    ^
+  		s.plotTree;
+-----------------------------------
+ERROR: Command line parse failed
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+/quit sent
+
+No matching processes belonging to you were found
+ERROR: syntax error, unexpected NAME, expecting '}'
+  in file 'selected text'
+  line 181 char 3:
+
+  		s.meter;
+    ^
+  		s.plotTree;
+-----------------------------------
+ERROR: Command line parse failed
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+/quit sent
+
+No matching processes belonging to you were found
+ERROR: syntax error, unexpected NAME, expecting '}'
+  in file 'selected text'
+  line 181 char 3:
+
+  		s.meter;
+    ^
+  		s.plotTree;
+-----------------------------------
+ERROR: Command line parse failed
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+/quit sent
+
+No matching processes belonging to you were found
+ERROR: syntax error, unexpected NAME, expecting '}'
+  in file 'selected text'
+  line 181 char 3:
+
+  		s.meter;
+    ^
+  		s.plotTree;
+-----------------------------------
+ERROR: Command line parse failed
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+/quit sent
+
+No matching processes belonging to you were found
+ERROR: syntax error, unexpected NAME, expecting '}'
+  in file 'selected text'
+  line 181 char 3:
+
+  		s.meter;
+    ^
+  		s.plotTree;
+-----------------------------------
+ERROR: Command line parse failed
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+/quit sent
+
+No matching processes belonging to you were found
+booting 57110
+RESULT = 0
+Found 0 LADSPA plugins
+Number of Devices: 3
+   0 : "Built-in Output"
+   1 : "Soundflower (2ch)"
+   2 : "Soundflower (64ch)"
+
+scsynth(9687,0x7fff74edb000) malloc: *** error for object 0x7ff6784c8cd8: incorrect checksum for freed object - object was probably modified after being freed.
+*** set a breakpoint in malloc_error_break to debug
+RESULT = 0
+ERROR: server failed to start
+For advice: [http://supercollider.sf.net/wiki/index.php/ERROR:_server_failed_to_start]
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+/quit sent
+
+No matching processes belonging to you were found
+booting 57110
+RESULT = 0
+Found 0 LADSPA plugins
+Number of Devices: 3
+   0 : "Built-in Output"
+   1 : "Soundflower (2ch)"
+   2 : "Soundflower (64ch)"
+
+"Soundflower (2ch)" Input Device
+   Streams: 1
+      0  channels 2
+
+"Built-in Output" Output Device
+   Streams: 1
+      0  channels 2
+
+SC_AudioDriver: sample rate = 44100.000000, driver's block size = 512
+SuperCollider 3 server ready.
+Receiving notification messages from server localhost
+Shared memory server interface initialized
+*** ERROR: SynthDef fogNewsAns88x3 not found
+FAILURE IN SERVER /s_new SynthDef not found
+WARNING: Server failed to respond to Group:queryTree!
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+/quit sent
+
+RESULT = 0
+No matching processes belonging to you were found
+booting 57110
+RESULT = 0
+Found 0 LADSPA plugins
+Number of Devices: 3
+   0 : "Built-in Output"
+   1 : "Soundflower (2ch)"
+   2 : "Soundflower (64ch)"
+
+scsynth(9723,0x7fff74edb000) malloc: *** error for object 0x7fdb8a573cd8: incorrect checksum for freed object - object was probably modified after being freed.
+*** set a breakpoint in malloc_error_break to debug
+RESULT = 0
+ERROR: server failed to start
+For advice: [http://supercollider.sf.net/wiki/index.php/ERROR:_server_failed_to_start]
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+/quit sent
+
+No matching processes belonging to you were found
+booting 57110
+RESULT = 0
+Found 0 LADSPA plugins
+Number of Devices: 3
+   0 : "Built-in Output"
+   1 : "Soundflower (2ch)"
+   2 : "Soundflower (64ch)"
+
+scsynth(9739,0x7fff74edb000) malloc: *** error for object 0x7f9a7b72dd98: incorrect checksum for freed object - object was probably modified after being freed.
+*** set a breakpoint in malloc_error_break to debug
+RESULT = 0
+ERROR: server failed to start
+For advice: [http://supercollider.sf.net/wiki/index.php/ERROR:_server_failed_to_start]
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+/quit sent
+
+No matching processes belonging to you were found
+booting 57110
+RESULT = 0
+Found 0 LADSPA plugins
+Number of Devices: 3
+   0 : "Built-in Output"
+   1 : "Soundflower (2ch)"
+   2 : "Soundflower (64ch)"
+
+"Soundflower (2ch)" Input Device
+   Streams: 1
+      0  channels 2
+
+"Built-in Output" Output Device
+   Streams: 1
+      0  channels 2
+
+SC_AudioDriver: sample rate = 44100.000000, driver's block size = 512
+SuperCollider 3 server ready.
+Receiving notification messages from server localhost
+Shared memory server interface initialized
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0
+RESULT = 0

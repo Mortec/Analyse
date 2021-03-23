@@ -1,0 +1,145 @@
+
+
+--------------------------------------- 2019-11-03-17-43-45-277
+[notice ] :::: USER :::mortec
+
+[notice ] :::: EXEC DIR :::/Users/mortec/CODE/OpenFrameworks/OF98/apps/myApps/Analyse/bin/AnalyseDebug.app/Contents/Resources
+
+[notice ] :::: DATAPATH :::data/
+
+[notice ] output audio device set to "Soundflower (2ch)"
+
+
+[notice ] Device: 0: Caméra FaceTime HD (intégrée)
+[notice ] 0: Caméra FaceTime HD (intégrée)
+[notice ] DEBUG SETUP PATH : data/set/SetupConfig.xml
+[notice ] [::::CONFIFURATION_SETUP::::] : HAPmode : 1
+[notice ] WORKING_DIRECTORY_IS_:/EVAPORATION/
+[notice ] [::::CONFIFURATION_SETUP::::] : LOADED
+[notice ] [:::: SETUP : DEFAULT AUDIO PARAMETER LOADED ::::]
+[notice ] Refreshing audio devices list.
+[notice ] INPUTS : 
+[notice ] {Built-in Input, Built-in Input (Aggregated), Soundflower (64ch) (Aggregated), Soundflower (2ch), Soundflower (64ch), WavTap}
+[notice ] OUTPUTS : 
+[notice ] {Built-in Output, Built-in Input (Aggregated), Soundflower (64ch) (Aggregated), Soundflower (2ch), Soundflower (64ch), WavTap, 2Flower}
+[notice ] Preset found :DEFAULT
+[notice ] Preset found :thones1
+[notice ] [:::: LOADING AUDIO PRESET ::::] : DEFAULT
+[notice ] [::::AUDIO_SETUP PRESET LOADED::::] : DEFAULT
+[notice ] Hues indexes : 192
+[notice ] Indexes values : {0, 12, 34, 56, 78, 101, 123, 145, 167, 190, 212, 234, 257, 279, 301, 323, 346, 368, 390, 412, 435, 457, 474, 476, 478, 480, 481, 483, 485, 487, 489, 490, 492, 494, 496, 498, 499, 501, 503, 505, 507, 508, 510, 512, 514, 515, 517, 519, 521, 523, 524, 526, 528, 530, 532, 533, 535, 537, 539, 541, 542, 544, 546, 548, 550, 551, 553, 555, 557, 559, 560, 562, 564, 566, 568, 569, 571, 573, 575, 577, 578, 580, 582, 584, 586, 588, 591, 594, 598, 601, 605, 609, 612, 616, 619, 623, 627, 630, 634, 637, 641, 645, 648, 652, 656, 659, 663, 666, 670, 674, 677, 681, 684, 688, 692, 695, 699, 702, 706, 710, 713, 717, 721, 724, 728, 731, 735, 739, 742, 743, 745, 747, 748, 749, 751, 753, 754, 755, 757, 759, 760, 761, 763, 765, 766, 767, 769, 771, 772, 774, 775, 777, 778, 780, 781, 783, 784, 786, 787, 789, 790, 792, 793, 795, 796, 798, 799, 801, 802, 804, 805, 813, 822, 833, 844, 855, 866, 877, 888, 899, 909, 920, 931, 942, 953, 964, 975, 985, 996, 1007, 1018, 1023}
+[notice ] [:::: SETUP : AUDIO OBJECTS LOADED ::::] : 
+[notice ] [:::: SETUP : VIDEO DEFAULT PARAMETERS DONE ::::]
+[notice ] ofxMidiOut: 3 ports available
+[notice ] ofxMidiOut: 0: IAC Supercollider
+[notice ] ofxMidiOut: 1: IAC Analysis_Out
+[notice ] ofxMidiOut: 2: R�seau Session 1
+[notice ] [:::: LOADING VIDEO PRESET ::::] : DEFAULT
+[notice ] [::::VIDEO_PRESET_LOADED::::] : DEFAULT
+[notice ] [:::: SETUP : INIT VIDEO STUFF  ::::]
+[notice ] [:::::::SETUP::::::::]-----------------------ThumbsNails
+[notice ] [:::::::SETUP::::::::]-----------------------ColorGraph
+[notice ] [:::::::SETUP::::::::]-----------------------SoundGraph
+[notice ] [::::SETUP  AUTOMATIONS : LOADED::::]
+[notice ] [::::AUTOMATIONS::::] : LOADED
+[notice ] 
+
+[notice ] [::::MAIN::::] : Update Playlist
+[notice ] 
+
+[notice ] File found : /EVAPORATION/Play/TV5_MONDE__Wednesday_06_February_2019__22H01-43s.MOV
+[notice ] File found : /EVAPORATION/Play/ALJAZEERA__Thursday_31_October_2019__15H28-07s.MOV
+[notice ] File found : /EVAPORATION/Play/ALJAZEERA__Thursday_31_October_2019__16H42-09s.MOV
+[notice ] File found : /EVAPORATION/Play/ALJAZEERA__Thursday_31_October_2019__16H56-03s.MOV
+[notice ] File found : /EVAPORATION/Play/ALJAZEERA__Thursday_31_October_2019__20H42-42s.MOV
+[notice ] File found : /EVAPORATION/Play/ALJAZEERA__Thursday_31_October_2019__22H12-32s.MOV
+[notice ] File found : /EVAPORATION/Play/ALJAZEERA__Friday_01_November_2019__13H05-11s.MOV
+[notice ] File found : /EVAPORATION/Play/ALJAZEERA__Friday_01_November_2019__13H55-41s.MOV
+[notice ] File found : /EVAPORATION/Play/ALJAZEERA__Friday_01_November_2019__14H27-37s.MOV
+[notice ] File found : /EVAPORATION/Play/ALJAZEERA__Sunday_03_November_2019__17H16-34s.MOV
+[notice ] 
+
+[notice ] [::::MAIN::::] : Update Streams list
+[notice ] 
+
+[notice ] Found streams list : data/lists/RECORD_URLS.txt
+[notice ] [:::MOVIE MANAGER:::] : SETUP
+[notice ] [:::MOVIE MANAGER:::] : Rec Path : /EVAPORATION/Record/
+[notice ] [:::MOVIE MANAGER:::] : Play Path : /EVAPORATION/Play/
+[notice ] [:::MOVIE MANAGER:::] : Rescue Path : /EVAPORATION/Rescue/
+[notice ] [:::MOVIE MANAGER:::] : Error Path : /EVAPORATION/Error/
+[notice ] [:::MOVIE MANAGER:::] : Archive Path : /EVAPORATION/Archive/
+[notice ] [:::MOVIE MANAGER:::] : update Streams list
+[notice ] [:::::MOVIE MANAGER:::::] : File list : data/lists/RECORD_URLS.txt
+[notice ] [:::MOVIE MANAGER:::] : Streams : data/lists/RECORD_URLS.txt
+[notice ] [:::MOVIE MANAGER:::] : Duration : 1
+[notice ] [:::MOVIE MANAGER:::] : Inter Record Time : 60
+[notice ] [:::MOVIE MANAGER:::] : maxLoadTime : 600
+[notice ] [:::MOVIE MANAGER:::] : minDuration : 0.9
+[notice ] [:::MOVIE MANAGER:::] : frameLate : 200
+[notice ] [:::MOVIE MANAGER:::] : First frameLate : 600
+[notice ] [:::MOVIE MANAGER::] : Max num Files : 10
+[notice ] [:::MOVIE MANAGER:::] : Max num archived files : 50
+[notice ] [:::MOVIE MANAGER:::] : Keep error files  : 1
+[notice ] [::::MAIN::::] : HAPp STARTED
+[notice ] [:::MOVIE MANAGER:::] : HAP mode : 1
+[notice ] [::::MAIN::::] AudioUnits Started
+[notice ] [:::::MAIN:::::] SETUP COMPLETE: 
+[notice ] [:: HAPp ::] Setup Complete
+[notice ] [:: HAPp ::] Autoplay : 1
+[notice ] [:: HAPp ::] Random : 0
+[notice ] [:: HAPp ::] Range : 30s - 45s
+[notice ] [:: HAPp ::] Maximum Silence Time : 10s
+[warning] ofxAudioAnalyzer: inBuffer size not matching (0)
+[warning] ofxAudioAnalyzerUnit: buffer requested to analyze size(0)doesnt match the buffer size already set: 2048
+[warning] ofxAudioAnalyzer: inBuffer size not matching (0)
+[warning] ofxAudioAnalyzerUnit: buffer requested to analyze size(0)doesnt match the buffer size already set: 2048
+[warning] ofxAudioAnalyzer: inBuffer size not matching (0)
+[warning] ofxAudioAnalyzerUnit: buffer requested to analyze size(0)doesnt match the buffer size already set: 2048
+[warning] ofxAudioAnalyzer: inBuffer size not matching (0)
+[warning] ofxAudioAnalyzerUnit: buffer requested to analyze size(0)doesnt match the buffer size already set: 2048
+[warning] ofxAudioAnalyzer: inBuffer size not matching (0)
+[warning] ofxAudioAnalyzerUnit: buffer requested to analyze size(0)doesnt match the buffer size already set: 2048
+[warning] ofxAudioAnalyzer: inBuffer size not matching (0)
+[warning] ofxAudioAnalyzerUnit: buffer requested to analyze size(0)doesnt match the buffer size already set: 2048
+[warning] ofxAudioAnalyzer: inBuffer size not matching (0)
+[warning] ofxAudioAnalyzerUnit: buffer requested to analyze size(0)doesnt match the buffer size already set: 2048
+[warning] ofxAudioAnalyzer: inBuffer size not matching (0)
+[warning] ofxAudioAnalyzerUnit: buffer requested to analyze size(0)doesnt match the buffer size already set: 2048
+[warning] ofxAudioAnalyzer: inBuffer size not matching (0)
+[warning] ofxAudioAnalyzerUnit: buffer requested to analyze size(0)doesnt match the buffer size already set: 2048
+[warning] ofxAudioAnalyzer: inBuffer size not matching (0)
+[warning] ofxAudioAnalyzerUnit: buffer requested to analyze size(0)doesnt match the buffer size already set: 2048
+[warning] ofxAudioAnalyzer: inBuffer size not matching (0)
+[warning] ofxAudioAnalyzerUnit: buffer requested to analyze size(0)doesnt match the buffer size already set: 2048
+[warning] ofxAudioAnalyzer: inBuffer size not matching (0)
+[warning] ofxAudioAnalyzerUnit: buffer requested to analyze size(0)doesnt match the buffer size already set: 2048
+[warning] ofxAudioAnalyzer: inBuffer size not matching (0)
+[warning] ofxAudioAnalyzerUnit: buffer requested to analyze size(0)doesnt match the buffer size already set: 2048
+[warning] ofxAudioAnalyzer: inBuffer size not matching (0)
+[warning] ofxAudioAnalyzerUnit: buffer requested to analyze size(0)doesnt match the buffer size already set: 2048
+[warning] ofxAudioAnalyzer: inBuffer size not matching (0)
+[warning] ofxAudioAnalyzerUnit: buffer requested to analyze size(0)doesnt match the buffer size already set: 2048
+[warning] ofxAudioAnalyzer: inBuffer size not matching (0)
+[warning] ofxAudioAnalyzerUnit: buffer requested to analyze size(0)doesnt match the buffer size already set: 2048
+[warning] ofxAudioAnalyzer: inBuffer size not matching (512)
+[warning] ofxAudioAnalyzerUnit: buffer requested to analyze size(512)doesnt match the buffer size already set: 2048
+[warning] ofxAudioAnalyzer: inBuffer size not matching (512)
+[warning] ofxAudioAnalyzerUnit: buffer requested to analyze size(512)doesnt match the buffer size already set: 2048
+[notice ] [:: HAPp ::] Play
+[notice ] [:: HAPp ::] PULSE
+[notice ] [:: HAPp ::] PULSE
+[notice ] [:: HAPp ::] PULSE
+[notice ] [:: HAPp ::] PULSE
+[notice ] [:: HAPp ::] PULSE
+[notice ] [:: HAPp ::] Playing : ALJAZEERA__Thursday_31_October_2019__15H28-07s.MOV
+[notice ] [:: HAPp ::] PULSE
+[notice ] [:: HAPp ::] PULSE
+[notice ] [:: HAPp ::] PULSE
+[notice ] [:: HAPp ::] PULSE
+[notice ] output audio device set to "Soundflower (2ch)"
+
+
+[notice ] 
+[notice ] 
+[notice ] 03-11-2019-17-44-33

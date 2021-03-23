@@ -1,0 +1,10 @@
+ofxAudioAnalyzer
+ofxAudioDecoder
+ofxAudioUnit
+ofxImGui
+ofxMidi
+ofxNetwork
+ofxOsc
+ofxSyphon
+ofxTimeMeasurements
+ofxWatchdog

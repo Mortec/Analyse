@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UserName</key>
+	<string>nebbia</string>
+
+	<key>Label</key>
+	<string>evaporation.analyse</string>
+
+	<key>EnvironmentVariables</key>
+	<dict>
+		<key>PATH</key>
+		<string>/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+	</dict>
+
+	<key>WorkingDirectory</key>
+	<string>/Users/nebbia/Dropbox/Evaporation</string>
+
+	<key>ProgramArguments</key>
+	<array>
+		<string>open</string>
+		<string>/Users/nebbia/Evaporation/AnalyseDebug.app</string>
+	</array>
+
+	<key>StandardOutPath</key>
+	<string>/Users/nebbia/Dropbox/Evaporation/Logs.txt</string>
+
+	<key>StandardErrorPath</key>
+	<string>/Users/nebbia/Dropbox/Evaporation/Logs_E.txt</string>
+	
+	<key>RunAtLoad</key>
+	<key>true</key>
+
+	<key>KeepAlive</key>
+	<dict>
+		<key>Crashed</key>
+		<true/>
+		<key>SuccessfulExit</key>
+		<key>false</key>
+	</dict>
+
+	<key>ExitTimeOut</key>
+        <integer>20</integer>
+</dict>
+</plist>
